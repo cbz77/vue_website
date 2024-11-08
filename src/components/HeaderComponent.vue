@@ -26,8 +26,6 @@
 
 import router from '../router/router';
 
-console.log(router.getRoutes());
-
 export default {
     name: 'HeaderComponent',
     data() {
